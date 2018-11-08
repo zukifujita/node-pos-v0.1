@@ -95,7 +95,10 @@ Total: 23.00 (yuan)
 
 #### Begin
 
-Fork this repo to your own repo site in Github
+Fork below repo to your own repo site in Github
+```
+https://github.com/tws-graduate-bootcamp/node-pos-v0.1
+```
 
 Open your terminal, change to any path and clone this repository:
 ```
@@ -120,7 +123,7 @@ src   //Source code you should implementation
 ```
 
 ## Practice Output && Submit
-- You should implement the code to pass all tests in spec folder, and push your repo to GitHub repo named **node-js-get-started**.
+- You should implement the code to pass all tests in spec folder, and push your repo to GitHub repo named **node-pos-v0.1**.
 - Commit your repository link to complete this Question.
 
 ## Learning Resource
