@@ -70,7 +70,7 @@ List contents (example):
 ***<store earning no money>Receipt ***
 Name: Coca-Cola, Quantity: 5 bottles, Unit price: 3.00 (yuan), Subtotal: 15.00 (yuan)
 Name: Sprite, Quantity: 2 bottles, Unit price: 3.00 (yuan), Subtotal: 6.00 (yuan)
-Name: Battery, Quantity: 1, Unit price: 2.00 (yuan), Subtotal: 2.00 (yuan)
+Name: Battery, Quantity: 1 a, Unit price: 2.00 (yuan), Subtotal: 2.00 (yuan)
 ----------------------
 Total: 23.00 (yuan)
 **********************
